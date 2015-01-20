@@ -1,0 +1,1 @@
+This will be replaced with the actual process for major proposals, what constitues a major proposal, and the directory will contain what ever other artefacts we deem needed, to include proposals under consideration.
